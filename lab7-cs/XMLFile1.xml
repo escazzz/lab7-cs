@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Classes>
+	<Class Name="Cow" Comment="Это класс коровы">
+		<Properties>
+			<Property>Country</Property>
+			<Property>HideFromOtherAnimals</Property>
+			<Property>Name</Property>
+			<Property>WhatAnimal</Property>
+		</Properties>
+		<Methods>
+			<Method>GetClassification</Method>
+			<Method>GetFavouriteFood</Method>
+			<Method>SayHello</Method>
+		</Methods>
+	</Class>
+	<Class Name="Lion" Comment="Это класс льва">
+		<Properties>
+			<Property>Country</Property>
+			<Property>HideFromOtherAnimals</Property>
+			<Property>Name</Property>
+			<Property>WhatAnimal</Property>
+		</Properties>
+		<Methods>
+			<Method>GetClassification</Method>
+			<Method>GetFavouriteFood</Method>
+			<Method>SayHello</Method>
+		</Methods>
+	</Class>
+	<Class Name="Pig" Comment="Это класс свиньи">
+		<Properties>
+			<Property>Country</Property>
+			<Property>HideFromOtherAnimals</Property>
+			<Property>Name</Property>
+			<Property>WhatAnimal</Property>
+		</Properties>
+		<Methods>
+			<Method>GetClassification</Method>
+			<Method>GetFavouriteFood</Method>
+			<Method>SayHello</Method>
+		</Methods>
+	</Class>
+</Classes>
